@@ -1,2 +1,2 @@
 # BoardSchedule
-A omework of University of Wisconsin-madison
+A homework of University of Wisconsin-madison
